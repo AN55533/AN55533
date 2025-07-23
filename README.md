@@ -1,16 +1,42 @@
-## Hi there 👋
+## Hi 👋, I'm ANJU JV
 
-<!--
-**AN55533/AN55533** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate full-stack developer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+<img src="ui/src/assets/images/github.gif" alt="GitHub Animation" width="300" />
+</div>
+
+
+
+
+
+
+## 🚀 About Me
+🎓 I am a MERN stack developer and currently pursuing PG Diploma in Blockchain.
+🌐 I’m skilled in HTML, CSS, JavaScript, and React
+
+
+
+
+## 🛠 Skills
+FrontEnd:
+React Tailwind CSS JavaScript
+
+Backend:
+Node.js Express.js
+
+Database:
+MongoDB
+
+Other Tools:
+Git GitHub Docker
+
+Development Environment:
+Visual Studio Code Remix IDE
+## 📫 Connect with Me
+To reach out to me
+
+Email :anjujv@gmail.com
+linkedin:www.linkedin.com/in/anju-jv-424712299/
